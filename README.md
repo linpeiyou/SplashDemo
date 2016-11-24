@@ -1,6 +1,6 @@
 # SplashDemo
 
-####An example of a splash scrren with animations on Android
+####An example of a splash screen with animations on Android
 
 ####带平移动画效果的Android Splash Demo
 在界面上解决了两个问题

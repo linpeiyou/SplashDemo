@@ -1,8 +1,8 @@
 # SplashDemo
 
-####An example of a splash screen with animations on Android
+###An example of a splash screen with animations on Android
 
-####带平移动画效果的Android Splash Demo
+###带平移动画效果的Android Splash Demo
 在界面上解决了两个问题
 
 1.解决了白屏黑屏闪屏的问题
@@ -20,5 +20,5 @@
         WindowManager.LayoutParams.FLAG_FORCE_NOT_FULLSCREEN);
 ```
 
-####效果：
+###效果：
 ![](https://github.com/linpeiyou/SplashDemo/blob/master/app/src/main/res/drawable/Splash.gif)
